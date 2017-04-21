@@ -93,6 +93,13 @@ h2 {
     background-color:#1f4936;
 }
 
+iframe {
+    text-align: center;
+    position: relative;
+    left: 25%;
+    padding: 3%;
+}
+
 footer p {
     text-align:center;
     padding: 2%;
